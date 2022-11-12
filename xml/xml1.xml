@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE videojuegos SYSTEM "videojuegos.dtd"> -->
+
+<videojuegos>
+    <videojuego>
+        <nombre>God of War</nombre>
+        <fecha>14 de enero de 2022</fecha>
+        <desarrollador>Santa Monica Studio</desarrollador>
+        <productora>Sony</productora>
+        <generos>
+            <genero>Aventura</genero>
+            <genero>Acción</genero>
+            <genero>Hack and Slash</genero>
+        </generos>
+        <clasificacion>C</clasificacion>
+        <duracion>70 horas</duracion>
+        <plataformas>
+            <plataforma>PlayStation 4</plataforma>
+            <plataforma>PC</plataforma>
+        </plataformas>
+    </videojuego>
+
+    <videojuego>
+        <nombre>Devil May Cry 5</nombre>
+        <fecha>8 de marzo de 2019</fecha>
+        <desarrollador>Capcom</desarrollador>
+        <productora>Capcom</productora>
+        <generos>
+            <genero>Aventura</genero>
+            <genero>Acción</genero>
+            <genero>Hack and Slash</genero>
+        </generos>
+        <clasificacion>C</clasificacion>
+        <duracion>12 horas</duracion>
+        <plataformas>
+            <plataforma>PlayStation 5</plataforma>
+            <plataforma>PlayStation 4</plataforma>
+            <plataforma>PC</plataforma>
+            <plataforma>Xbox Series</plataforma>
+        </plataformas>
+    </videojuego>
+
+    <videojuego>
+        <nombre>Detroit Become Human</nombre>
+        <fecha>25 de mayo de 2018</fecha>
+        <desarrollador>Quantic Dream</desarrollador>
+        <productora>Sony</productora>
+        <generos>
+            <genero>Aventura</genero>
+            <genero>Aventura Interactiva</genero>
+        </generos>
+        <clasificacion>C</clasificacion>
+        <duracion>10 horas</duracion>
+        <plataformas>
+            <plataforma>PlayStation 4</plataforma>
+            <plataforma>PC</plataforma>
+        </plataformas>
+    </videojuego>
+
+    <videojuego>
+        <nombre>Bayonetta 2</nombre>
+        <fecha>24 de octubre de 2014</fecha>
+        <desarrollador>Platinum Games</desarrollador>
+        <productora>Nintendo</productora>
+        <generos>
+            <genero>Aventura</genero>
+            <genero>Acción</genero>
+            <genero>Hack and Slash</genero>
+        </generos>
+        <clasificacion>B15</clasificacion>
+        <duracion>10 horas</duracion>
+        <plataformas>
+            <plataforma>Wii U</plataforma>
+        </plataformas>
+    </videojuego>
+
+    <videojuego>
+        <nombre>Destiny 2</nombre>
+        <fecha>6 de septiembre de 2017</fecha>
+        <desarrollador>Capcom</desarrollador>
+        <productora>Capcom</productora>
+        <generos>
+            <genero>Aventura</genero>
+            <genero>FPS</genero>
+            <genero>Acción</genero>
+        </generos>
+        <clasificacion>B15</clasificacion>
+        <duracion>12 horas</duracion>
+        <plataformas>
+            <plataforma>PlayStation 5</plataforma>
+            <plataforma>PlayStation 4</plataforma>
+            <plataforma>PC</plataforma>
+            <plataforma>Xbox Series</plataforma>
+        </plataformas>
+    </videojuego>
+    
+</videojuegos>

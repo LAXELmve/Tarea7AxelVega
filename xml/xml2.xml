@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<telefonos>
+    <telefono>
+        <nombre>MOTOROLA MOTO EDGE 30 ULTRA</nombre>
+        <procesador>Snapdragon 8+ Gen 1</procesador>
+        <almacenamientos>
+            <almacenamiento>256 GB</almacenamiento>
+        </almacenamientos>
+        <memoria>
+            <capacidad>12 GB</capacidad>
+        </memoria>
+        <camaras>
+            <trasera>200 MP</trasera>
+            <delantera>60 MP</delantera>
+        </camaras>
+        <bateria>4610 mAh</bateria>
+        <sistema>Android 12</sistema>
+    </telefono>
+
+    <telefono>
+        <nombre>HUAWEI MATE 50 PRO</nombre>
+        <procesador>Snapdragon 8+ Gen 1 (4G)</procesador>
+        <almacenamientos>
+            <almacenamiento>256 GB</almacenamiento>
+            <almacenamiento>512 GB</almacenamiento>
+        </almacenamientos>
+        <memoria>
+            <capacidad>8 GB</capacidad>
+            <capacidad>12 GB</capacidad>
+        </memoria>
+        <camaras>
+            <trasera>50 MP</trasera>
+            <delantera>13 MP</delantera>
+        </camaras>
+        <bateria>4700 mAh</bateria>
+        <sistema>Android 12</sistema>
+    </telefono>
+
+    <telefono>
+        <nombre>XIAOMI 12S ULTRA</nombre>
+        <procesador>Snapdragon 8+ Gen 1</procesador>
+        <almacenamientos>
+            <almacenamiento>128 GB</almacenamiento>
+            <almacenamiento>256 GB</almacenamiento>
+            <almacenamiento>512 GB</almacenamiento>
+        </almacenamientos>
+        <memoria>
+            <capacidad>8 GB</capacidad>
+            <capacidad>12 GB</capacidad>
+        </memoria>
+        <camaras>
+            <trasera>50 MP</trasera>
+            <delantera>32 MP</delantera>
+        </camaras>
+        <bateria>4860 mAh</bateria>
+        <sistema>Android 12</sistema>
+    </telefono>
+
+    <telefono>
+        <nombre>SAMSUNG GALAXY S22 ULTRA</nombre>
+        <procesador>Exynos 2200</procesador>
+        <almacenamientos>
+            <almacenamiento>128 GB</almacenamiento>
+            <almacenamiento>256 GB</almacenamiento>
+            <almacenamiento>512 GB</almacenamiento>
+            <almacenamiento>1 TB</almacenamiento>
+        </almacenamientos>
+        <memoria>
+            <capacidad>8 GB</capacidad>
+            <capacidad>12 GB</capacidad>
+        </memoria>
+        <camaras>
+            <trasera>108 MP</trasera>
+            <delantera>40 MP</delantera>
+        </camaras>
+        <bateria>5000 mAh</bateria>
+        <sistema>Android 12</sistema>
+    </telefono>
+
+    <telefono>
+        <nombre>GOOGLE PIXEL 6 PRO</nombre>
+        <procesador>Snapdragon 8+ Gen 1</procesador>
+        <almacenamientos>
+            <almacenamiento>128 GB</almacenamiento>
+            <almacenamiento>256 GB</almacenamiento>
+            <almacenamiento>512 GB</almacenamiento>
+        </almacenamientos>
+        <memoria>
+            <capacidad>12 GB</capacidad>
+        </memoria>
+        <camaras>
+            <trasera>50 MP</trasera>
+            <delantera>11.1 MP</delantera>
+        </camaras>
+        <bateria>5000 mAh</bateria>
+        <sistema>Android 12</sistema>
+    </telefono>
+</telefonos>
